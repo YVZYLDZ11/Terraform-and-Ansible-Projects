@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "publicIPAddresses_F1_Sunucu_IP_name": {
+            "value": null
+        },
+        "networkInterfaces_F1_Sunucu_NIC_name": {
+            "value": null
+        },
+        "virtualNetworks_F1_Production_VNet_name": {
+            "value": null
+        },
+        "virtualMachines_F1_Telemetry_Server_name": {
+            "value": null
+        },
+        "networkSecurityGroups_F1_Security_Group_name": {
+            "value": null
+        }
+    }
+}
