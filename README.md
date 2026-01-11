@@ -86,7 +86,7 @@ Database: MariaDB
 OS: Ubuntu 22.04 LTS
 
 👨‍💻 Author
-YAVUZ YILDIZ Aspiring DevOps Engineer https://www.linkedin.com/in/yavuzyildizyz/
+YAVUZ YILDIZ Cloud Infrastructure Engineer https://www.linkedin.com/in/yavuzyildizyz/
 
 
 
