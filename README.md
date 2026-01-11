@@ -90,19 +90,3 @@ YAVUZ YILDIZ Aspiring DevOps Engineer https://www.linkedin.com/in/yavuzyildizyz/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
