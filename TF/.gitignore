@@ -1,0 +1,19 @@
+# Terraform temporary files (Large binaries)
+.terraform/
+.terraform.lock.hcl
+
+# Terraform State files (Contains sensitive info, do not upload!)
+*.tfstate
+*.tfstate.backup
+
+# SSH Keys (SECURITY RISK: DO NOT UPLOAD!)
+*.pem
+*.key
+id_rsa
+
+# Ansible temporary files
+.ansible/
+*.retry
+
+# Log files
+*.log
